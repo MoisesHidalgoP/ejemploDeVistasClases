@@ -1,0 +1,6 @@
+edu\dws\ejemploWebClase\Web\Controladores\ControladorSegunda.class
+edu\dws\ejemploWebClase\Web\Controladores\Serblet.class
+edu\dws\ejemploWebClase\Clases\Persona.class
+edu\dws\ejemploWebClase\EnrutadorEjemploWeb.class
+edu\dws\ejemploWebClase\Web\WebConfiguracionContexto.class
+edu\dws\ejemploWebClase\Configuracion\AplicacionConfiguracionContexto.class
